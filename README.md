@@ -21,6 +21,8 @@ Learn Javascript, refer to https://www.udemy.com/understand-javascript
 
   那为什么不直接把 JavaScript 定为标准呢？因为 JavaScript 是网景的注册商标。
   ```
+* 要看官方文档
+  [https://developer.mozilla.org/zh-CN/docs/Web/JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
 ## 运行环境
 * Execution Context: a wrapper to help manage the code that is running.  
